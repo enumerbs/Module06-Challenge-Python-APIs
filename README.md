@@ -16,7 +16,14 @@ Refer to the following Jupyter Notebook files:
 # Implementation notes
 
 Part 1: WeatherPy
-- TBA
+- Open Weather API
+    - Obtain current weather data based on details at https://openweathermap.org/current
+- Scatter Plots
+    - Added import for 'datetime' module, to be able to interpret 'Unix epoch' datetime UTC value returned by the API - and so add the date the weather measurements were retrieved to the Title of each scatter plot.
+    - In 'starter code' .ipynb file, the Title on the first scatter plot was "City Max Latitude vs. Temperature (2024-06-17)" but I think the position of 'Max' was a typo, and it should have been "City Latitude vs. Max Temperature (2024-06-17)", to align the terminology with the y-axis label. I've adjusted my Title for the first scatter plot accordingly in my case.
+- Linear Regression
+    - Linear regression calculation code adapted from earlier module: Module 05 'Data Visualisation', Lession 5.3 'Introduction to Statistics'
+    - Linear regression equation text overlay adapted from Module 05, Lession 5.3, Activity '08-Ins_Fits_and_Regression'.
 
 Part 2: VacationPy
 - TBA
@@ -25,5 +32,8 @@ Part 2: VacationPy
 
 The following references were used in the development of the solution for this Challenge.
 
-## Topic 1
-- reference 1
+## Matplotlib - text annotation on plots
+- https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.annotate.html
+
+## Unix epoch datetime values
+- https://note.nkmk.me/en/python-unix-time-datetime/
