@@ -6,13 +6,20 @@ Python APIs Challenge
 
 # Results
 
-TBA:
-- path1
-- path2
+Refer to the following Jupyter Notebook files:
+### Part 1: WeatherPy
+*WeatherPy/Weather.ipynb*
+
+### Part 2: VacationPy
+*VacationPy/VacationPy.ipynb*
 
 # Implementation notes
 
-TBA
+Part 1: WeatherPy
+- TBA
+
+Part 2: VacationPy
+- TBA
 
 # References
 
