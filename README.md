@@ -8,7 +8,7 @@ Python APIs Challenge
 
 Refer to the following Jupyter Notebook files:
 ### Part 1: WeatherPy
-*WeatherPy/Weather.ipynb*
+*WeatherPy/WeatherPy.ipynb*
 
 ### Part 2: VacationPy
 *VacationPy/VacationPy.ipynb*
