@@ -38,5 +38,5 @@ The following references were used in the development of the solution for this C
 ## Unix epoch datetime values
 - https://note.nkmk.me/en/python-unix-time-datetime/
 
-## Hvplot - scatter plot points' colour control
+## HoloViews (hvplot) - scatter plot points: category colour control
 - https://stackoverflow.com/questions/56484779/holoviews-scatter-plot-color-by-categorical-data
