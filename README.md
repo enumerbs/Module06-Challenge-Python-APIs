@@ -27,7 +27,10 @@ Part 1: WeatherPy
 
 Part 2: VacationPy
 - Map plot
-    - Hvplot - scatter plot catgories, and specifically colours per category can apparently be specified be either the 'by' parameter (for grouping) or the 'color' parameter. The 'by' approach gave an error to do with NdOverlay, so the 'color' parameter was the better option in this case. Refer to the refence below for more details.
+    - Hvplot - scatter plot categories, and specifically colours per category can apparently be specified be either the 'by' parameter (for grouping) or the 'color' parameter. The 'by' approach gave an error to do with NdOverlay, so the 'color' parameter was the better option in this case. Refer to the refence below for more details.
+- Geoapify
+    - Used the Places API to search for locations of interest (in this case, hotels) within a specified distance of a given Latitude and Longitude https://apidocs.geoapify.com/docs/places/#api
+    - Filter conditions for use with the Places API https://apidocs.geoapify.com/docs/places/#conditions
 
 # References
 
