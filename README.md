@@ -26,7 +26,7 @@ Part 1: WeatherPy
     - Linear regression equation text overlay adapted from Module 05, Lession 5.3, Activity '08-Ins_Fits_and_Regression'.
 
 Part 2: VacationPy
-- TBA
+- Hvplot - scatter plot catgories, and specifically colours per category can apparently be specified be either the 'by' parameter (for grouping) or the 'color' parameter. The 'by' approach gave an error to do with NdOverlay, so the 'color' parameter was the better option in this case. Refer to the refence below for more details.
 
 # References
 
@@ -37,3 +37,6 @@ The following references were used in the development of the solution for this C
 
 ## Unix epoch datetime values
 - https://note.nkmk.me/en/python-unix-time-datetime/
+
+## Hvplot - scatter plot points' colour control
+- https://stackoverflow.com/questions/56484779/holoviews-scatter-plot-color-by-categorical-data
